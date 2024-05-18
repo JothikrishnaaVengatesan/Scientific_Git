@@ -6,8 +6,6 @@ A scientific calculator is a type of electronic calculator, usually but not alwa
 * PC
 * Android studio
 * Emulator
-## DEMONSTRATION : 
-![alt text](image.png) ![alt text](image-1.png)
 
 ## PROGRAM:
 ~~~
@@ -388,3 +386,5 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ~~~
+## OUTPUT : 
+![alt text](image.png) ![alt text](image-1.png)
